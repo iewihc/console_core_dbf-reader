@@ -1,0 +1,15 @@
+C:\Users\coder\source\repos\DbfConsole\DbfConsole\bin\Debug\netcoreapp3.1\DbfConsole.exe
+C:\Users\coder\source\repos\DbfConsole\DbfConsole\obj\Debug\netcoreapp3.1\DbfConsole.csprojAssemblyReference.cache
+C:\Users\coder\source\repos\DbfConsole\DbfConsole\obj\Debug\netcoreapp3.1\DbfConsole.AssemblyInfoInputs.cache
+C:\Users\coder\source\repos\DbfConsole\DbfConsole\obj\Debug\netcoreapp3.1\DbfConsole.AssemblyInfo.cs
+C:\Users\coder\source\repos\DbfConsole\DbfConsole\bin\Debug\netcoreapp3.1\DbfConsole.deps.json
+C:\Users\coder\source\repos\DbfConsole\DbfConsole\bin\Debug\netcoreapp3.1\DbfConsole.runtimeconfig.json
+C:\Users\coder\source\repos\DbfConsole\DbfConsole\bin\Debug\netcoreapp3.1\DbfConsole.runtimeconfig.dev.json
+C:\Users\coder\source\repos\DbfConsole\DbfConsole\bin\Debug\netcoreapp3.1\DbfConsole.dll
+C:\Users\coder\source\repos\DbfConsole\DbfConsole\bin\Debug\netcoreapp3.1\DbfConsole.pdb
+C:\Users\coder\source\repos\DbfConsole\DbfConsole\bin\Debug\netcoreapp3.1\dBASE.NET.dll
+C:\Users\coder\source\repos\DbfConsole\DbfConsole\obj\Debug\netcoreapp3.1\DbfConsole.csproj.CoreCompileInputs.cache
+C:\Users\coder\source\repos\DbfConsole\DbfConsole\obj\Debug\netcoreapp3.1\DbfConsole.csproj.CopyComplete
+C:\Users\coder\source\repos\DbfConsole\DbfConsole\obj\Debug\netcoreapp3.1\DbfConsole.dll
+C:\Users\coder\source\repos\DbfConsole\DbfConsole\obj\Debug\netcoreapp3.1\DbfConsole.pdb
+C:\Users\coder\source\repos\DbfConsole\DbfConsole\obj\Debug\netcoreapp3.1\DbfConsole.genruntimeconfig.cache
